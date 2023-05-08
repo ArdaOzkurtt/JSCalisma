@@ -1,5 +1,3 @@
-// 13. KLASÖR / 14. KLASÖR
-
 // let value;
 
 // value = document;
